@@ -157,8 +157,11 @@ ClientBin/
 #Mac OS
 .DS_Store
 # intellij
-./.gitignore
+.gitignore
 *.xml
 *.iml
+*.zip
+*.md
+*.json
 
 
